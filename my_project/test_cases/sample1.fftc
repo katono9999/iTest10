@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testCase version="7.0.1.201802131446">
+    <procedures>
+        <item name="main">
+            <steps>
+                <item guid="ec2f5848-0a27-45d0-bfdc-9387a1a00814" action="eval">
+                    <command>
+                        <body>puts &quot;test&quot;</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                    <useFieldsInCommand>false</useFieldsInCommand>
+                </item>
+            </steps>
+        </item>
+    </procedures>
+</testCase>
