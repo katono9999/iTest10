@@ -24,6 +24,20 @@
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                     <useFieldsInCommand>false</useFieldsInCommand>
                 </item>
+                <item guid="ce325aaf-49f0-41a0-bdb4-3cdce45930c1" action="eval">
+                    <command>
+                        <body>puts &quot;abecd&quot;</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                    <useFieldsInCommand>false</useFieldsInCommand>
+                </item>
+                <item guid="e35106fd-8522-41cb-a298-2afb3768e1e6" action="eval">
+                    <command>
+                        <body>puts &quot;rabit fire&quot;</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                    <useFieldsInCommand>false</useFieldsInCommand>
+                </item>
             </steps>
         </item>
     </procedures>
