@@ -24,6 +24,13 @@
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                     <useFieldsInCommand>false</useFieldsInCommand>
                 </item>
+                <item guid="ce325aaf-49f0-41a0-bdb4-3cdce45930c1" action="eval">
+                    <command>
+                        <body>puts &quot;abecd&quot;</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                    <useFieldsInCommand>false</useFieldsInCommand>
+                </item>
             </steps>
         </item>
     </procedures>
